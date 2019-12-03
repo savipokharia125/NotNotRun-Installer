@@ -8,6 +8,7 @@ Installation Steps:
 4. UnZip the file & click on "NotNotRun setup(x86)" for complete installation.
 5. Follow the directed Steps, hurrah! done with installation. Enjoy the Game :)
 
+
 Playing Guide:
 
 NotNotRun is truly relies on set of instructions provided, Some set of information will be flashed on the screen for "5 sec" and according to which user has to control its player.
