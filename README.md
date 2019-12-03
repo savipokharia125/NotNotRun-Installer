@@ -16,6 +16,7 @@ There are three lanes in the game-
 1. Left Lane
 2. Center Lane
 3. Right Lane
+
 According to the instruction flashed on screen, user has to decide in which lane to move.
 Any wrong move will result in restart of the current playing level.
 
