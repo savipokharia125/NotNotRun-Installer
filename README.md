@@ -6,4 +6,4 @@ Installation Steps:
 2. Select "DownLoad Zip".
 3. A Zip file will be downloaded in your desktop. 
 4. UnZip the file & click on "NotNotRun setup(x86)" for complete installation.
-5. Follow the directed Steps, hurray done with installation. Enjoy the Game :)
+5. Follow the directed Steps, hurrah! done with installation. Enjoy the Game :)
