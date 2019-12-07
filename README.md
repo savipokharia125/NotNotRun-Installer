@@ -1,5 +1,5 @@
 # NotNotRun-Installer
-NotNotRun, a Unity game is a brain teaser which primarily focuses on logical building.
+NotNotRun, a Unity PC game is a brain teaser which primarily focuses on logical building.
 
 Installation Steps(for windows users):
 1. Go to "Clone or Download" Option.
