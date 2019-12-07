@@ -1,7 +1,7 @@
 # NotNotRun-Installer
 NotNotRun, a Unity game is a brain teaser which primarily focuses on logical building.
 
-Installation Steps:
+Installation Steps(for windows users):
 1. Go to "Clone or Download" Option.
 2. Select "DownLoad Zip".
 3. A Zip file will be downloaded in your desktop. 
