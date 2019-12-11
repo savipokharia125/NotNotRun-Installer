@@ -8,7 +8,7 @@ Installation Steps(for windows users):
 4. UnZip the file & click on "NotNotRun setup(x86)" for complete installation.
 5. Follow the directed Steps, hurrah! done with installation. Enjoy the Game :)
 
-Check out the game [<iframe width="560" height="315"frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>](https://www.youtube.com/embed/UA8WerALubE)
+Check out the game [NotNotRun-A brain teaser](https://www.youtube.com/embed/UA8WerALubE)
 
 Playing Guide:
 
