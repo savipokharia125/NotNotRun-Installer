@@ -8,7 +8,7 @@ NotNotRun, a Unity PC game is a brain teaser which primarily focuses on logical 
 4. UnZip the file & click on *"NotNotRun setup(x86)"* for complete installation.
 5. Follow the directed Steps, hurrah! done with installation. Enjoy the Game :)
 
-**Check out the game** [NotNotRun-A brain teaser](https://www.youtube.com/embed/UA8WerALubE)
+**Checkout the insights of:** [NotNotRun-A brain teaser](https://www.youtube.com/embed/UA8WerALubE)
 
 **Playing Guide:**
 
